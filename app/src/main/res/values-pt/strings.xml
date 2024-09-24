@@ -622,7 +622,6 @@
     <string name="delete_message_series_section" formatted="true">Irá também eliminar permanentemente todos os episódios da seguinte série:
 \n
 \n%s</string>
-    <string name="player_settings_play_in_mpvytdl">MPV YTDL</string>
     <string name="delete_format" formatted="true">Eliminar (%1$d | %2$s)</string>
     <string name="device_pin_url_message">Visite <b>%s</b> no seu smartphone ou computador e introduza o código acima</string>
     <string name="play_from_beginning_img_des">Recomeçar</string>
